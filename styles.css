@@ -1,0 +1,89 @@
+/** Styles to add uniformity to the page **/
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  div,
+  p,
+  h3 {
+    font-size: 1.2em;
+    font-family: sans-serif;
+  }
+  
+  .parentDiv {
+    background-color: lightcoral;
+  }
+  
+  .parentAbsolute {
+    position: absolute;
+  }
+  
+  p {
+    background-color: lightblue;
+  }
+  
+  /** End uniformity section **/
+  
+  .textAlignCenter {}
+  
+  .textAlignJustify {}
+  
+  .textAlignStart {}
+  
+  .textAlignEnd {}
+  
+  .fontWeightBold {}
+  
+  .fontWeightBolder {}
+  
+  .fontWeightNormal {}
+  
+  .fontWeightLighter {}
+  
+  .fontWeightNumeric {
+    /* set the weight to 900 */
+  }
+  
+  .height400 {
+    background-color: lightblue;
+  }
+  
+  .width200 {
+    background-color: lightblue;
+  }
+  
+  
+  .verticalAlignBaseline {}
+  
+  .verticalAlignTop {}
+  
+  .verticalAlignMiddle {}
+  
+  .verticalAlignBottom {}
+  
+  .paddingAllFour {
+    background-color: lightblue;
+    border: 1px solid black;
+  }
+  
+  .marginAllFour {
+    background-color: lightblue;
+    border: 1px solid black;
+  }
+  
+  .positionSticky {
+    /* set the top, left, bottom, or right property to a value along with setting the position property */
+  }
+  
+  .positionFixed {
+    /* set the top, left, bottom, or right property to a value along with setting the position property */
+  }
+  
+  .positionAbsolute {
+    /* set the top, left, bottom, or right property to a value along with setting the position property */
+  }
+  
+  .positionRelative {
+    /* set the top, left, bottom, or right property to a value along with setting the position property */
+  }
